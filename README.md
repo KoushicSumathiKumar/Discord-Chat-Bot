@@ -13,9 +13,9 @@ This project is a Discord bot that uses the Wolfram Alpha API to provide answers
 If you'd like to run the Python scripts provided above, please ensure that you have Python installed on your system. You can download and install Python from the official Python website: [python.org/downloads](https://www.python.org/downloads/).
 
 **Terminial commands for libraries used:**
-- ```pip install discord.py```
-- ```pip install python-dotenv```
-- ```pip install aiohttp```
+- `pip install discord.py`
+- `pip install python-dotenv`
+- `pip install aiohttp`
 
 **Create an `.env` file in the root directory and add your Discord bot token and Wolfram Alpha App ID:**
 
