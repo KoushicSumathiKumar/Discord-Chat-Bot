@@ -32,7 +32,8 @@ Message sent in a **public channel**, requesting for **a private respond**:
 ![image](https://github.com/KoushicSumathiKumar/Discord-Chat-Bot/assets/149502679/8cdeeedd-7f5c-44a9-9c30-7e3d99a959cf)
 
 ChatBot replying in **private dms**: 
-![image](https://github.com/KoushicSumathiKumar/Discord-Chat-Bot/assets/149502679/ed74d7a6-c636-42a2-98b4-d88537d0bc52)
+![image](https://github.com/KoushicSumathiKumar/Discord-Chat-Bot/assets/149502679/bc6fde43-b93a-41c8-8777-c8b5e1f7823b)
+
 
 
 
