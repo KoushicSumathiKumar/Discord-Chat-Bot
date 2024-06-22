@@ -1,4 +1,4 @@
-# Discord Bot with Wolfram Alpha Integration
+# Discord ChatBot with Wolfram Alpha Integration
 
 This project is a Discord bot that uses the Wolfram Alpha API to provide answers to user queries. The bot can respond to messages in public channels and send private responses. This project was highly educational for me, as it was my first experience with learning and implementing asynchronous methods. Grasping and understanding how asynchronous methods work was challenging and time-consuming, but it was worth it as I found them to be both powerful and extremely useful.
 
@@ -8,7 +8,7 @@ This project is a Discord bot that uses the Wolfram Alpha API to provide answers
 - Sends private responses if the message starts with a `?`.
 - Uses Wolfram Alpha API to get answers for user queries.
 
-### Setup
+## Setup
 
 If you'd like to run the Python scripts provided above, please ensure that you have Python installed on your system. You can download and install Python from the official Python website: [python.org/downloads](https://www.python.org/downloads/).
 
@@ -23,3 +23,7 @@ If you'd like to run the Python scripts provided above, please ensure that you h
     DISCORD_TOKEN=your_discord_token
     WOLFRAM_APP_ID=your_wolfram_app_id
     ```
+
+## Discord ChatBot in action
+![image](https://github.com/KoushicSumathiKumar/Discord-Chat-Bot/assets/149502679/15f2e836-ed8e-4036-9887-f48511d557e7)
+
