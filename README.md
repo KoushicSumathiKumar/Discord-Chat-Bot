@@ -25,5 +25,14 @@ If you'd like to run the **Python** scripts provided, please ensure that you hav
     ```
 
 ## Discord ChatBot in Action
+Chatting with the bot in a **public channel**:
 ![image](https://github.com/KoushicSumathiKumar/Discord-Chat-Bot/assets/149502679/15f2e836-ed8e-4036-9887-f48511d557e7)
+
+Message sent in a **public channel**, requesting for **a private respond**:
+![image](https://github.com/KoushicSumathiKumar/Discord-Chat-Bot/assets/149502679/8cdeeedd-7f5c-44a9-9c30-7e3d99a959cf)
+
+ChatBot replying in **private dms**: 
+![image](https://github.com/KoushicSumathiKumar/Discord-Chat-Bot/assets/149502679/ed74d7a6-c636-42a2-98b4-d88537d0bc52)
+
+
 
