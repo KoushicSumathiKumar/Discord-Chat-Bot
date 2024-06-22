@@ -5,6 +5,7 @@ import os
 app_id = os.getenv('WOLFRAM_APP_ID')
 
 async def get_response(user_input: str) -> str:
+    # url to access the api
     api_url = "http://api.wolframalpha.com/v2/query"
     params = {
         "input": user_input,
