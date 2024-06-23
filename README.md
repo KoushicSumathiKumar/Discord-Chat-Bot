@@ -34,6 +34,4 @@ Message sent in a **public channel**, requesting for **a private respond**:
 ChatBot replying in **private dms**: 
 ![image](https://github.com/KoushicSumathiKumar/Discord-Chat-Bot/assets/149502679/bc6fde43-b93a-41c8-8777-c8b5e1f7823b)
 
-
-
-
+If you have any questions, don't hesitate to drop a message on my [LinkedIn](https://www.linkedin.com/in/koushic-sumathi-kumar/) :)
